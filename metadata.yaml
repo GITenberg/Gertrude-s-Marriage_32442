@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '31372'
     url: http://www.gutenberg.org/2009/agents/31372
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32442#Gertrude-s-Marriage
 gutenberg_issued: '2010-05-19'
 gutenberg_type: Text
 identifiers:
